@@ -1,2 +1,5 @@
 eclipse.preferences.version=1
+encoding//src/model/Post.java=UTF-8
+encoding//src/model/user/PrivateUser.java=UTF-8
+encoding//src/service/MainService.java=UTF-8
 encoding/<project>=windows-1252
